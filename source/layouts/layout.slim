@@ -1,0 +1,15 @@
+doctype html
+html.no-js lang="en"
+  head
+    meta charset="utf-8"
+    meta name="viewport" content="width=device-width, initial-scale=1.0"
+    meta name="inmobi-site-verification" content="57208cc49e853d2f75d7d3b925c0e234"
+    title = data.page.title
+
+    = stylesheet_link_tag "foundation", "style"
+    = javascript_include_tag "modernizr"
+
+  body
+    = yield
+    = javascript_include_tag "all"
+
