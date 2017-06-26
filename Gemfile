@@ -7,4 +7,5 @@ gem "middleman-compass"
 gem "middleman-livereload"
 gem "middleman-cli"
 gem 'slim'
+gem 'bootstrap-sass'
 
