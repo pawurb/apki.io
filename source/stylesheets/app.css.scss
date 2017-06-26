@@ -1,2 +1,19 @@
 @import "bootstrap";
 
+.app-icon {
+  width: 200px;
+  height: 200px;
+  border-radius: 18px;
+}
+
+.app-icon-border {
+  border:1px solid #CCC;
+}
+
+.offset {
+  margin-top: 20px;
+}
+
+.big-offset {
+  margin-top: 80px;
+}

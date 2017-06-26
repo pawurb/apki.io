@@ -1,15 +1,45 @@
 [
   {
-    "id": 1,
-    "name": "Alarm Clock",
+    "name": "Tracky",
     "link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
-    "image1": "timer1.png"
+    "image1": "tracky.png",
+    "border": true
   },
   {
-    "id": 2,
-    "name": "Zazen Timer",
-    "link": "https://itunes.apple.com/us/app/simple-zazen-timer-zen-meditation/id796940852",
-    "image1": "zazen1.png"
+    "name": "Zazen",
+    "link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
+    "image1": "zazen.png",
+    "border": true
+  },
+  {
+    "name": "Mirrot",
+    "link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
+    "image1": "mirror.png",
+    "border": true
+  },
+  {
+    "name": "Focus",
+    "link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
+    "image1": "focus.png",
+    "border": false
+  },
+  {
+    "name": "Boss",
+    "link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
+    "image1": "shoot_boss.png",
+    "border": true
+  },
+  {
+    "name": "Mirror",
+    "link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
+    "image1": "procrastination.png",
+    "border": true
+  },
+  {
+    "name": "Wishlist",
+    "link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
+    "image1": "wishlist.png",
+    "border": true
   }
 ]
 

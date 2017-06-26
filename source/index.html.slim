@@ -1,13 +1,14 @@
 div.app-icons
-  - data.apps.each do |app|
-    .row
-      .col-lg-4.col-sm-2
-        .app-store-img
-          a href="#{app.link}" target="_blank"
-          img src="images/#{app.image1}" /
+  - data.apps.each_slice(4) do |apps|
+    .row.offset.text-center
+      - apps.each do |app|
+        div.col-lg-3.col-sm-6
+          .app-store-img.offset
+            a href="#{app.link}" target="_blank"
+              img class="app-icon #{'app-icon-border' if app.border}" alt="#{app.name}" src="images/#{app.image1}" /
 
 
-footer.footer
+footer.footer.big-offset
   p
     span> &copy; Paweł Urbanek 2017 p.urbanek89 at gmail.com
 
