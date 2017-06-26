@@ -17,4 +17,5 @@
 .DS_Store
 
 source/bower_components
+build/bower_components
 
