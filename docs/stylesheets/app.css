@@ -7275,13 +7275,31 @@ button.close {
   margin-top: 20px; }
 
 /* line 17, app.css.scss */
+.offset-bottom {
+  margin-bottom: 20px; }
+
+/* line 21, app.css.scss */
 .big-offset {
   margin-top: 80px; }
 
-/* line 21, app.css.scss */
+/* line 25, app.css.scss */
 .right {
   float: right; }
 
-/* line 25, app.css.scss */
+/* line 29, app.css.scss */
+.left {
+  float: left; }
+
+/* line 33, app.css.scss */
+.inset-top {
+  margin-top: 10px; }
+
+/* line 37, app.css.scss */
 footer {
   font-size: 12px; }
+
+/* line 41, app.css.scss */
+.contact-icon {
+  width: 40px;
+  height: 40px;
+  margin-left: 10px; }
