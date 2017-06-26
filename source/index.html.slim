@@ -1,0 +1,17 @@
+#apps
+  - data.apps.each do |app|
+    .row
+      .large-12.columns
+        .app-store-img
+          a href="#{app.app_store_link}" target="_blank"
+          img src="images/#{app.image1}" /
+
+
+#support
+  .row
+    .large-12.columns
+      a name="support"
+      .panel
+        | Mail to:
+        span.contact-email data-magellan-destination="support" =" #{data.page.email}"
+

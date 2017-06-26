@@ -1,8 +1,10 @@
 source 'https://rubygems.org'
-ruby '2.4.0'
+ruby '2.3.3'
 
+gem "compass"
 gem "middleman"
+gem "middleman-compass"
 gem "middleman-livereload"
-gem 'middleman-gh-pages'
+gem "middleman-cli"
 gem 'slim'
 
