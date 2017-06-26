@@ -2,20 +2,14 @@
   {
     "id": 1,
     "name": "Alarm Clock",
-    "nav_name": "alarm",
-    "app_store_link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
-    "paragraphs": ["This is an alarm clock app. It wakes you up in the morning.", "Or whenever you want."],
-    "image1": "timer1.png",
-    "image2": "timer2.png"
+    "link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
+    "image1": "timer1.png"
   },
   {
     "id": 2,
     "name": "Zazen Timer",
-    "nav_name": "zen",
-    "app_store_link": "https://itunes.apple.com/us/app/simple-zazen-timer-zen-meditation/id796940852",
-    "paragraphs": ["Simple Zazen Timer is all that you need to practice your meditation.", "<a href='http://www.freesound.org/people/suburban%20grilla/sounds/2166/' target='_blank'>Bowl sound</a>", "<a href='http://www.freesound.org/people/alienistcog/sounds/125157/' target='_blank'>Intervals sound</a>"],
-    "image1": "zazen1.png",
-    "image2": "zazen2.png"
+    "link": "https://itunes.apple.com/us/app/simple-zazen-timer-zen-meditation/id796940852",
+    "image1": "zazen1.png"
   }
 ]
 

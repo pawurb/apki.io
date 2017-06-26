@@ -1,17 +1,13 @@
-#apps
+div.app-icons
   - data.apps.each do |app|
     .row
-      .large-12.columns
+      .col-lg-4.col-sm-2
         .app-store-img
-          a href="#{app.app_store_link}" target="_blank"
+          a href="#{app.link}" target="_blank"
           img src="images/#{app.image1}" /
 
 
-#support
-  .row
-    .large-12.columns
-      a name="support"
-      .panel
-        | Mail to:
-        span.contact-email data-magellan-destination="support" =" #{data.page.email}"
+footer.footer
+  p
+    span> &copy; Paweł Urbanek 2017 p.urbanek89 at gmail.com
 
