@@ -7260,3 +7260,20 @@ button.close {
   /* line 18, ../../../../../.rvm/gems/ruby-2.3.3/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/mixins/_responsive-visibility.scss */
   .hidden-print {
     display: none !important; } }
+/* line 3, app.css.scss */
+.app-icon {
+  width: 200px;
+  height: 200px;
+  border-radius: 18px; }
+
+/* line 9, app.css.scss */
+.app-icon-border {
+  border: 1px solid #CCC; }
+
+/* line 13, app.css.scss */
+.offset {
+  margin-top: 20px; }
+
+/* line 17, app.css.scss */
+.big-offset {
+  margin-top: 80px; }
