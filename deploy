@@ -1,9 +1,8 @@
 middleman build
 echo "Build completed"
-git add build/ -A
+cp -r build/ docs/
+git add docs/ -A
 git commit -m 'new build'
-# in caseo of conlicts
-## git push origin `git subtree split --prefix build development`:master --force
-git subtree push --prefix build origin master
+git push
 echo "Deploy completed"
 
