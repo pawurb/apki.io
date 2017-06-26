@@ -1,5 +1,11 @@
 [
   {
+    "name": "Let Me Focus",
+    "link": "https://itunes.apple.com/us/app/let-me-focus-self-control-for-mobile-addiction/id1197355361?mt=8",
+    "image1": "focus.png",
+    "border": false
+  },
+  {
     "name": "Tracky - Time Tracker for Slack",
     "link": "https://itunes.apple.com/us/app/tracky-time-tracker-for-slack/id992625902?mt=8",
     "image1": "tracky.png",
@@ -22,12 +28,6 @@
     "link": "https://itunes.apple.com/us/app/mirror-writing-reader/id974241647?mt=8",
     "image1": "mirror.png",
     "border": true
-  },
-  {
-    "name": "Let Me Focus",
-    "link": "https://itunes.apple.com/us/app/let-me-focus-self-control-for-mobile-addiction/id1197355361?mt=8",
-    "image1": "focus.png",
-    "border": false
   },
   {
     "name": "Shoot your Boss",
