@@ -42,14 +42,14 @@
     "border": true
   },
   {
-    "name": "Wishlist",
-    "link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
+    "name": "Smart Wishlist",
+    "link": "https://itunes.apple.com/us/app/smart-wishlist-buy-cheaper-apps-and-save-money/id1239519423?ls=1&mt=8",
     "image1": "wishlist.png",
     "border": true
   },
   {
     "name": "Abot",
-    "link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
+    "link": "https://bot-anonymous.herokuapp.com",
     "image1": "abot.png",
     "border": true
   },
