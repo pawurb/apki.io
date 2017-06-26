@@ -1,37 +1,43 @@
 [
   {
-    "name": "Tracky",
-    "link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
+    "name": "Tracky - Time Tracker for Slack",
+    "link": "https://itunes.apple.com/us/app/tracky-time-tracker-for-slack/id992625902?mt=8",
     "image1": "tracky.png",
     "border": true
   },
   {
-    "name": "Zazen",
-    "link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
+    "name": "Siorb",
+    "link": "http://siorb.dobreziele.pl",
+    "image1": "siorb.png",
+    "border": false
+  },
+  {
+    "name": "Simple Zazen Timer",
+    "link": "https://itunes.apple.com/us/app/simple-zazen-timer-zen-meditation/id796940852?mt=8",
     "image1": "zazen.png",
     "border": true
   },
   {
-    "name": "Mirrot",
-    "link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
+    "name": "Mirror",
+    "link": "https://itunes.apple.com/us/app/mirror-writing-reader/id974241647?mt=8",
     "image1": "mirror.png",
     "border": true
   },
   {
-    "name": "Focus",
-    "link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
+    "name": "Let Me Focus",
+    "link": "https://itunes.apple.com/us/app/let-me-focus-self-control-for-mobile-addiction/id1197355361?mt=8",
     "image1": "focus.png",
     "border": false
   },
   {
-    "name": "Boss",
-    "link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
+    "name": "Shoot your Boss",
+    "link": "https://itunes.apple.com/us/app/shoot-your-boss-custom-photo-shooter/id1229237820?mt=8",
     "image1": "shoot_boss.png",
     "border": true
   },
   {
-    "name": "Mirror",
-    "link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
+    "name": "Control Procrastination",
+    "link": "https://itunes.apple.com/us/app/control-procrastination-block-distracting-websites/id1189844594?mt=8",
     "image1": "procrastination.png",
     "border": true
   },
@@ -39,6 +45,18 @@
     "name": "Wishlist",
     "link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
     "image1": "wishlist.png",
+    "border": true
+  },
+  {
+    "name": "Abot",
+    "link": "https://itunes.apple.com/us/app/simple-alarm-clock-free-wake/id942324398",
+    "image1": "abot.png",
+    "border": true
+  },
+  {
+    "name": "Army of Mushrooms",
+    "link": "https://aom-game.s3-website-eu-west-1.amazonaws.com",
+    "image1": "mushroom.png",
     "border": true
   }
 ]
