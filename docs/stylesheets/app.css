@@ -7277,3 +7277,7 @@ button.close {
 /* line 17, app.css.scss */
 .big-offset {
   margin-top: 80px; }
+
+/* line 21, app.css.scss */
+.right {
+  float: right; }
