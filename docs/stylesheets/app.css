@@ -7281,3 +7281,7 @@ button.close {
 /* line 21, app.css.scss */
 .right {
   float: right; }
+
+/* line 25, app.css.scss */
+footer {
+  font-size: 12px; }
