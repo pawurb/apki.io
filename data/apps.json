@@ -55,7 +55,7 @@
   },
   {
     "name": "Army of Mushrooms",
-    "link": "https://aom-game.s3-website-eu-west-1.amazonaws.com",
+    "link": "http://aom-game.s3-website-eu-west-1.amazonaws.com",
     "image1": "mushroom.png",
     "border": true
   }
