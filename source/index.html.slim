@@ -8,8 +8,16 @@ div.app-icons
               img class="app-icon #{'app-icon-border' if app.border}" alt="#{app.name}" src="images/#{app.image1}" /
 
 
-footer.footer.big-offset
-  p
-    span> &copy; Paweł Urbanek 2017
-    span.right> p.urbanek89 at gmail.com
+footer.footer.big-offset.offset-bottom
+  .row
+    .col-lg-2.col-sm-3
+      div.left
+        span &copy; Paweł Urbanek 2017
+    .col-lg-8.col-sm-6
+    .col-lg-2.col-sm-3
+      div.right
+        a> href="https://twitter.com/_pawurb" target='_blank'
+          img.contact-icon src='images/twitter_icon.png'
+        a< href="https://github.com/pawurb" target='_blank'
+          img.contact-icon src='images/github_icon.png'
 
