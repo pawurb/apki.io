@@ -1,5 +1,11 @@
 [
   {
+    "name": "Smart Wishlist",
+    "link": "https://itunes.apple.com/us/app/smart-wishlist-buy-cheaper-apps-and-save-money/id1239519423?ls=1&mt=8",
+    "image1": "wishlist.png",
+    "border": true
+  },
+  {
     "name": "Let Me Focus",
     "link": "https://itunes.apple.com/us/app/let-me-focus-self-control-for-mobile-addiction/id1197355361?mt=8",
     "image1": "focus.png",
@@ -39,12 +45,6 @@
     "name": "Control Procrastination",
     "link": "https://itunes.apple.com/us/app/control-procrastination-block-distracting-websites/id1189844594?mt=8",
     "image1": "procrastination.png",
-    "border": true
-  },
-  {
-    "name": "Smart Wishlist",
-    "link": "https://itunes.apple.com/us/app/smart-wishlist-buy-cheaper-apps-and-save-money/id1239519423?ls=1&mt=8",
-    "image1": "wishlist.png",
     "border": true
   },
   {
