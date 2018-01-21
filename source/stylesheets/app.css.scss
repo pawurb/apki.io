@@ -43,3 +43,14 @@ footer {
   height: 40px;
   margin-left: 10px;
 }
+
+.link {
+  color: #333;
+  border-bottom: 1px solid !important;
+}
+
+a, a:link, a:visited {
+  text-decoration: none;
+  background-image: none;
+  color: #333;
+}
