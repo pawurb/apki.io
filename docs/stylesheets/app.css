@@ -7305,7 +7305,7 @@ footer {
   margin-left: 10px; }
 
 /* line 47, app.css.scss */
-.link {
+a.link {
   color: #333;
   border-bottom: 1px solid !important;
   text-decoration: none !important; }
