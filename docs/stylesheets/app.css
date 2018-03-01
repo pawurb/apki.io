@@ -7296,7 +7296,7 @@ button.close {
 
 /* line 37, app.css.scss */
 footer {
-  font-size: 12px; }
+  font-size: 14px; }
 
 /* line 41, app.css.scss */
 .contact-icon {
@@ -7305,13 +7305,17 @@ footer {
   margin-left: 10px; }
 
 /* line 47, app.css.scss */
+.social-icons img.contact-icon {
+  width: 30px;
+  height: 30px; }
+
+/* line 52, app.css.scss */
 a.link {
   color: #333;
-  border-bottom: 1px solid !important;
-  text-decoration: none !important; }
+  text-decoration: none; }
 
-/* line 53, app.css.scss */
+/* line 57, app.css.scss */
 a, a:link, a:visited {
-  text-decoration: none !important;
+  text-decoration: none;
   background-image: none;
   color: #333; }
