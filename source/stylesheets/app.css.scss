@@ -47,11 +47,11 @@ footer {
 .link {
   color: #333;
   border-bottom: 1px solid !important;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 a, a:link, a:visited {
-  text-decoration: none;
+  text-decoration: none !important;
   background-image: none;
   color: #333;
 }
