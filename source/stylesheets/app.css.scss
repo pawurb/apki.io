@@ -35,7 +35,7 @@
 }
 
 footer {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .contact-icon {
@@ -44,14 +44,18 @@ footer {
   margin-left: 10px;
 }
 
+.social-icons img.contact-icon {
+  width: 30px;
+  height: 30px;
+}
+
 a.link {
   color: #333;
-  border-bottom: 1px solid !important;
-  text-decoration: none !important;
+  text-decoration: none;
 }
 
 a, a:link, a:visited {
-  text-decoration: none !important;
+  text-decoration: none;
   background-image: none;
   color: #333;
 }
