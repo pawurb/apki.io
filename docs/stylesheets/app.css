@@ -7303,14 +7303,3 @@ footer {
   width: 40px;
   height: 40px;
   margin-left: 10px; }
-
-/* line 47, app.css.scss */
-.link {
-  color: #333;
-  border-bottom: 1px solid !important; }
-
-/* line 52, app.css.scss */
-a, a:link, a:visited {
-  text-decoration: none;
-  background-image: none;
-  color: #333; }
