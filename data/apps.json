@@ -12,6 +12,12 @@
     "border": false
   },
   {
+    "name": "Jekyll SEO Template",
+    "link": "https://pawelurbanek.com/jekyll-seo-template",
+    "image1": "jekyll-seo.png",
+    "border": true
+  },
+  {
     "name": "Tracky - Time Tracker for Slack",
     "link": "https://tracky.apki.io",
     "image1": "tracky.png",
