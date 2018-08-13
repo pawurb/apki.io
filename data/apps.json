@@ -1,5 +1,11 @@
 [
   {
+    "name": "Scraper App",
+    "link": "https://scraperapp.com",
+    "image1": "scraperapp.png",
+    "border": true
+  },
+  {
     "name": "Smart Wishlist",
     "link": "https://wishlist.apki.io",
     "image1": "wishlist.png",
