@@ -1,5 +1,11 @@
 [
   {
+    "name": "Abot",
+    "link": "https://abot.app",
+    "image1": "abot.png",
+    "border": true
+  },
+  {
     "name": "Focus Board",
     "link": "https://focusboard.apki.io",
     "image1": "focusboard.png",
@@ -57,12 +63,6 @@
     "name": "Control Procrastination",
     "link": "https://selfcontrol.apki.io/",
     "image1": "procrastination.png",
-    "border": true
-  },
-  {
-    "name": "Abot",
-    "link": "https://abot.app",
-    "image1": "abot.png",
     "border": true
   }
 ]
