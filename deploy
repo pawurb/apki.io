@@ -1,4 +1,4 @@
-middleman build
+bundle exec middleman build
 echo "Build completed"
 cp -r build/ docs/
 git add docs/ -A
